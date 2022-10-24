@@ -1,12 +1,12 @@
 {
-  "Adsx": [
+  "Ads": [
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "ca-app-pub-2631643370199907/69742516",
-      "main_ads_intertitial":"ca-app-pub-2631643370199907/2065233",
-      "backup_ads_banner":"629878c91ee5daf6",
-      "backup_ads_intertitial":"08c51c3fa604fe9a",
+      "main_ads_banner": "ca-app-pub-2631643370199907/3388253778",
+      "main_ads_intertitial":"ca-app-pub-2631643370199907/8449008767",
+      "backup_ads_banner":"78f302380ce299bd",
+      "backup_ads_intertitial":"081c4700ded5f377",
       "interval_intertitial": 4,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -41,23 +41,47 @@
     },
 	{
       "id":4,
+      "title":"Unicorn Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/DGlq6Du63OcrSZ326qNwg5EecO4PiiMppIeiGC2VW_syZ_3HX0eziqJl8QGTj15PG8M=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.UnicornWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":5,
       "title":"Galaxy Wolf Wallpapers 4K",
       "image":"https://play-lh.googleusercontent.com/UQDpPpXDquuHXSJjNYRjwGKyxdvf4EPnUoGlMG_BEAONnPCWlhyzbU0-ZRrncYY3lWld=w240-h480-rw",
       "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.GalaxyWolfWallpapers&hl=in&gl=US"
     },
 	{
-      "id":5,
-      "title":"Unicorn Wallpapers 4K [UHD]",
-      "image":"https://play-lh.googleusercontent.com/DGlq6Du63OcrSZ326qNwg5EecO4PiiMppIeiGC2VW_syZ_3HX0eziqJl8QGTj15PG8M=w240-h480-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.UnicornWallpapers&hl=in&gl=US"
+      "id":6,
+      "title":"Flower Wallpaper 4K",
+      "image":"https://play-lh.googleusercontent.com/UmSE5NHUhw6vHWZhub4mhrCYD4jkc-9aocsD1Qk49VT0lROWTWSqljHJDgKoKIIzu51N=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.MLWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":7,
+      "title":"Boca Toca Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/-ibnYV9UKOcHilG6_DaMtVKYI3zDk7pv4D6Hy4LxVKjSz-nmFjuF9sN2Ti-79IEbERU=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.BocaTocaWallpaper&hl=in&gl=US"
+    },
+	{
+      "id":8,
+      "title":"FF Wallpapers 4K [UHD]",
+      "image":"https://play-lh.googleusercontent.com/532yf81osbtG4BqKvgBRsItX3WEAPRh-nAiIChSPKIEADd6keWeRVI6XsfDiPmRXDY8=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.FFWallpapers&hl=in&gl=US"
+    },
+	{
+      "id":9,
+      "title":"Kaiju Godzilla Wallpaper HD",
+      "image":"https://play-lh.googleusercontent.com/yGOr-RQCh7ruJiqF65z4heKAi0EcgXLrqtFRGPKl1U65TiZXV2PmlQIb2QX3EDjziQ=w240-h480-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.TimprutYepa.KaijuGodzillaWallpaper&hl=in&gl=US"
     }
   ],
 
   "Categories": [
     {
       "id": 1,
-      "name_category": "ML",
-      "image": "https://i.pinimg.com/564x/b0/ab/1b/b0ab1bf41118e0c56eb10a50be41b5c9.jpg"
+      "name_category": "Miga",
+      "image": "https://i.pinimg.com/564x/da/a7/a0/daa7a041afbe6171009f30c6024567ac.jpg"
 
     }
 	
@@ -67,604 +91,605 @@
   [
     {
       "id":1,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ac/df/26/acdf2658c74a6d16b01e3fe21485d266.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/22/12/ec/2212ec8b7801f8d5929e1851b3d0eeb0.jpg"
     },
 	{
       "id":2,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/b0/ab/1b/b0ab1bf41118e0c56eb10a50be41b5c9.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ae/d9/ea/aed9ea1a9736e86fd6f54e346f392e1a.jpg"
     },
 	{
       "id":3,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ce/b1/00/ceb100559bd5090fa306cf38c04f8db5.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/da/a7/a0/daa7a041afbe6171009f30c6024567ac.jpg"
     },
 	{
       "id":4,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/2d/db/66/2ddb66d3ac2e25c11a3ea44e22f3d926.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/93/4b/c8/934bc87033bdc90d9af50aa84e8bd182.jpg"
     },
 	{
       "id":5,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0e/12/76/0e12766e9537ddde1b979acd31d0be71.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/17/dd/88/17dd8873a618b57670423bde9cf054e5.jpg"
     },
 	{
       "id":6,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/14/09/22/140922864ff823ce1e55ccc5b6224d3d.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/5e/13/17/5e131732fa9090deef5fa2ab412cb2e5.jpg"
     },
 	{
       "id":7,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/77/9f/82/779f82783af40294e2f3fcc2b0fc2c1f.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/64/76/4a/64764ac2ce8589dc35b159aa77d4c463.jpg"
     },
 	{
       "id":8,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/36/91/f7/3691f7c4d7abaa3438d5d14dd1b7c4ed.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/46/02/dc/4602dc9dea5673abc067db98502d0f33.jpg"
     },
 	{
       "id":9,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/eb/f9/11/ebf91103e351e25a1f2bcd8145310a2d.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/d4/f4/17/d4f4178d8e53439175512c22bc043b00.jpg"
     },
 	{
       "id":10,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/f6/da/44/f6da446818ce55b06d0de7ad4a61e0bb.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/4b/20/7c/4b207c9075dde5ff28ed39864e9fb195.jpg"
     },
 	{
       "id":11,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/e6/a7/c0/e6a7c02169b30e6ab37ec4e0bb9abead.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/6b/e5/2b/6be52b6545eac688267399136db56fce.jpg"
     },
 	{
       "id":12,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/d2/0a/c3/d20ac3bfe904bd40411468e5e2e6bb2f.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/74/7e/fb/747efbd5c230aea2791d743e25a2ed7b.jpg"
     },
 	{
       "id":13,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/87/d8/2e/87d82e297d7398055c905a90aed79f72.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/736x/44/b9/fb/44b9fb4e38531ae73537255178f52c49.jpg"
     },
 	{
       "id":14,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0f/4e/f4/0f4ef438de39c7cf36b3c1f60a88c3d6.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/02/bf/a5/02bfa530e90d50b31b9c4f7245feae47.jpg"
     },
 	{
       "id":15,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/6f/50/6c/6f506cc07fd76e28da05fa5f021bf379.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/24/55/4f/24554f11aec34db572b45bd7dc946589.jpg"
     },
 	{
       "id":16,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ca/51/bc/ca51bcde6c1eef1bec6198ad92b0d6f9.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/d1/91/27/d19127e3b56dd8f1fb874c80575c121e.jpg"
     },
 	{
       "id":17,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/b0/be/4d/b0be4d74a4815e2544d4d2aa008252e9.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/d6/64/b4/d664b4d904786783669aa31e88f63b67.jpg"
     },
 	{
       "id":18,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0a/4d/2b/0a4d2bd818a9caf8b8c58f08df633be7.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/41/b9/f7/41b9f7f15f90791cd6e18ed39bcc829f.jpg"
     },
 	{
       "id":19,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/82/91/5f/82915fc51d711d566444509ec366c7ec.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/b9/8a/2d/b98a2d4984ea8c96fda5b0970d31905c.jpg"
     },
 	{
       "id":20,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/be/62/e3/be62e32196c53fb570385703ae861bef.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/4f/c1/a5/4fc1a54afa32b84abae4d08d462f9d07.jpg"
     },
 	{
       "id":21,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/1a/bf/51/1abf51a400c9b27562dd1b88d5bedbe1.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/9c/22/bc/9c22bceeab68c215ebbd660ee9fd700e.jpg"
     },
 	{
       "id":22,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/93/e1/6d/93e16dcf749631096229aad000336ed4.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/aa/a8/6d/aaa86df1b090d9be54468a94079f1c0c.jpg"
     },
 	{
       "id":23,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/7f/31/f4/7f31f43a9842f105b9b8256ad17655ae.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/736x/5e/d8/da/5ed8daf24304f25ba2d2b5b9fff4ad42.jpg"
     },
 	{
       "id":24,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/af/00/10/af001068103736f6d16f32ffff4ef124.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/8d/f4/76/8df476751c9e1a41859b052a493fa54f.jpg"
     },
 	{
       "id":25,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/9d/92/0a/9d920a213011702864faf8c689575e8d.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/6c/68/8b/6c688b7ce28a38f01b8eca1cbbb88f8d.jpg"
     },
 	{
       "id":26,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/29/fb/4c/29fb4c1196d5f0402c54f0df0f67346a.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/7e/01/60/7e0160ed2a16fd4f74838dcf21b05f51.jpg"
     },
 	{
       "id":27,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/82/96/84/82968438b908b68bacf1c89dbba4db1c.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/6c/8e/04/6c8e04db746a76a6b687df3740d6577c.jpg"
     },
 	{
       "id":28,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bb/e0/74/bbe07459c65a44cd0e0c6ba53b7e6e3b.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/38/e5/67/38e56730ecbd8bcdc44d0767d8cca1ef.jpg"
     },
 	{
       "id":29,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/18/49/d9/1849d9bfaba19a1215cc588ca16dcd81.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/bd/a7/47/bda747fe469f8d8078a79c3b16d78f82.jpg"
     },
 	{
       "id":30,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/94/1a/75/941a750dc8d2ace38ab32d3066a784c7.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/b4/88/8e/b4888e76d9608458716f87b87e8b4658.jpg"
     },
 	{
       "id":31,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/eb/60/78/eb6078628e7e9c26375c9044337e50df.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/f9/de/df/f9dedf09ecdaee86f3f305b5da76c8c8.jpg"
     },
 	{
       "id":32,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/57/93/89/5793896a3335dbe8168cc5f7a3450dda.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/40/13/44/401344a84c9360d50e0b533aa8db719a.jpg"
     },
 	{
       "id":33,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/7f/f1/c4/7ff1c4a028c41bfabbf1b0d428bce0b9.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/27/8b/89/278b899dc45ec00507662d51030db0db.jpg"
     },
 	{
       "id":34,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/57/08/40/5708409c29f8122b32a3a76f52b12016.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/c8/71/60/c87160692dd2b7ad5927d232967144e7.jpg"
     },
 	{
       "id":35,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/0a/45/e3/0a45e30ef136cb85693ed9d6a3a0d7e0.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/c5/a5/63/c5a56349b9da235ac0a862c89a0e1756.jpg"
     },
 	{
       "id":36,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/24/50/c2/2450c2997dda2295e09901790768ce51.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/736x/9c/33/98/9c3398d664b80b01ea97689852075068.jpg"
     },
 	{
       "id":37,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/87/bc/e0/87bce02e0d9d874b1db1a6755275da90.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/2b/b0/ce/2bb0cec45a714649dbdbe7f822240c39.jpg"
     },
 	{
       "id":38,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/5e/ba/3a/5eba3a3fc932fc85c71a5bc3221b760e.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/a0/53/45/a053455fcb4041b9fd5747830370ae13.jpg"
     },
 	{
       "id":39,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bc/aa/38/bcaa38e3bf257c3b76f46227f5ed8a98.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ec/dd/e0/ecdde067a518dea7e97c2826fda4168f.jpg"
     },
 	{
       "id":40,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/76/00/01/760001112a6cf348a3082eff2b6a97f5.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/21/bf/8d/21bf8d8f87f045a025df1271966bbf71.jpg"
     },
 	{
       "id":41,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/40/55/87/4055879877347692d7b233bd20371708.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/30/38/43/3038432a90043cdf9a8408f214f79be0.jpg"
     },
 	{
       "id":42,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/70/11/de/7011de0717efeded57fb8dae24b340f4.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/a6/fe/6d/a6fe6dbc9bb894068029c98bb20ae55f.jpg"
     },
 	{
       "id":43,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/28/05/79/280579cf8290b369bd3adaf7cef274be.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/1c/ff/03/1cff03f957ae2837661c25c84a137492.jpg"
     },
 	{
       "id":44,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/99/7a/bd/997abdd47391326c3fb60152f84a9e3c.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/c3/cd/ee/c3cdee6a1c8780ad2a456c11425ecda5.jpg"
     },
 	{
       "id":45,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/15/cf/fb/15cffb0334bfc81a442f101fc6bbc9cf.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/cc/2b/0e/cc2b0e50131cec0f5ea57bf28e3ed889.jpg"
     },
 	{
       "id":46,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bc/47/e6/bc47e65a721378d0e44f603f10cd3dbd.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/64/37/27/643727db1a4ef4de7ed5e372abb8b05d.jpg"
     },
 	{
       "id":47,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/89/75/4c/89754c0b1cb3c2cc36e853ee91bcc3ab.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/80/02/f7/8002f7e603f0de99455894cc6116b059.jpg"
     },
 	{
       "id":48,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/1d/2b/1f/1d2b1f0d5a08b50031e703320cb13ff2.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/d5/ff/cb/d5ffcb6606d7e1a317176c695f8d716e.jpg"
     },
 	{
       "id":49,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fb/5a/53/fb5a530d6ad3cec4ace8a36b80ba83fc.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/de/11/4d/de114d7580787b2b8fae9dac5716a557.jpg"
     },
 	{
       "id":50,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/79/1e/15/791e15998e816c2dfd16009ac2138499.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/39/90/9b/39909b33b567ecfc64df29ea5ff12a0a.jpg"
     },
 	{
       "id":51,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/27/36/c6/2736c6b2b9d00e313ddcccaea264968c.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/9f/da/03/9fda038e153c37ab600d25b9cb089d72.jpg"
     },
 	{
       "id":52,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/51/cc/bb/51ccbb96801d4474aaa1fe0b45421b2f.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/8a/d2/9d/8ad29d8a72baf3879864878e7c969d2d.jpg"
     },
 	{
       "id":53,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/81/8d/7b/818d7bc0ceb28aff7bd121bd32176f10.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/74/09/a4/7409a438f8e12e8c6941bb643eb138dd.jpg"
     },
 	{
       "id":54,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fd/34/88/fd34885125dba135cf69e03221c25ca4.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/fa/2a/e2/fa2ae281ad8574ed248406e5a06e4030.jpg"
     },
 	{
       "id":55,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/60/98/4f/60984f3e465d83b8ec38f104a3ae7107.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/05/34/1e/05341ede6c5ec893bcf35babaa163032.jpg"
     },
 	{
       "id":56,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fb/b7/cc/fbb7ccc39537905ad4c9b4dd5721410e.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/17/a3/e7/17a3e7b9a63791e2e1356ecceb8f0cbd.jpg"
     },
 	{
       "id":57,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/11/57/fd/1157fd3765dc77c12d8b597c6e8deff8.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ba/d6/5c/bad65c2aadc213f9a794dfc8a9ec7cb7.jpg"
     },
 	{
       "id":58,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/bd/f7/93/bdf7932ebccfed6caf9853ef3de04230.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/2b/3b/1f/2b3b1fd29bc3d26fecfbf75530e932f5.jpg"
     },
 	{
       "id":59,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/5c/96/4f/5c964fb2404dfb0cfc8710f06177ffd5.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/cb/34/8a/cb348a53c6447ac525c9b6d81a3e5f16.jpg"
     },
 	{
       "id":60,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ba/bd/6f/babd6f9477d2635eb5a04146b799d8b1.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/11/e0/3a/11e03aae8db27b36a8a45d7674182157.jpg"
     },
 	{
       "id":61,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/42/36/a8/4236a8c0fec7deecd6d44c1b4cb66ce8.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ca/a4/81/caa481b6e212bc87752b7612cca24635.jpg"
     },
 	{
       "id":62,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/9d/7d/b5/9d7db5b35f7db85af3c5478e31c5b180.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/aa/e5/0e/aae50e96fc9918127be1e093f488862b.jpg"
     },
 	{
       "id":63,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/80/b3/0e/80b30ec1d71108e8bef7d5c82e4e84e3.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/c2/5c/3a/c25c3a734fdcfc88508384429fd36210.jpg"
     },
 	{
       "id":64,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/4c/93/ae/4c93ae9ae4904f1c8b5aebca27e446af.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/f9/76/9e/f9769e48d7c1470274046a72da5fabc3.jpg"
     },
 	{
       "id":65,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/32/c2/7a/32c27aa47e1af38f6fd88aaf5b64d0e5.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/68/34/4f/68344f0558ff5c144fec173af362f103.jpg"
     },
 	{
       "id":66,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/68/26/56/682656d028cdd9895b5fa4ff2affa747.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/d8/36/f7/d836f7baec93f9f49a761a4192212f0f.jpg"
     },
 	{
       "id":67,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/17/b9/8e/17b98e93358098d70b0d183dd06b2f80.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/a4/70/29/a470293048c13b71a0e1f1a69f7efd71.jpg"
     },
 	{
       "id":68,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ad/21/a1/ad21a107481275654663a778c2cc9f34.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ae/e5/8b/aee58b03072f8d7159468e53f6e4a587.jpg"
     },
 	{
       "id":69,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/27/f6/ab/27f6ab359a4553f74cff346240783f90.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/0a/63/bd/0a63bd6af54f38c32040add8277b0c60.jpg"
     },
 	{
       "id":70,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/b5/62/2e/b5622e67720ee394f11d19f4ecb04963.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ac/73/f4/ac73f452b9ad02f57f6d9abc53faf5e5.jpg"
     },
 	{
       "id":71,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/aa/d8/92/aad8929cb36857d8e9c6d1828ead2e08.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/b0/80/7f/b0807f453b6aa6c9cc4010b361df0092.jpg"
     },
 	{
       "id":72,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/736x/98/00/0b/98000b2dd9029186500ecf98d1107a37.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/c2/db/4c/c2db4c4cc4b9064f05bb9d1e549e2e20.jpg"
     },
 	{
       "id":73,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/7a/ed/b4/7aedb4f09a4c9f663f0cee8f058cf88b.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/15/c8/64/15c864176538dd44ae090af595b03dcd.jpg"
     },
 	{
       "id":74,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/c4/6a/6b/c46a6bb1ddf95319c9c209d67effb54c.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/87/b7/af/87b7afa9822c67a69749939b836d487d.jpg"
     },
 	{
       "id":75,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/69/64/6c/69646cc8993c76dbafe84c70a73e2ab8.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/86/06/32/86063250639022c9002a4eab72af8e60.jpg"
     },
 	{
       "id":76,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/55/fa/4c/55fa4c813667f6771c211e5dbdbf18d4.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/3c/c9/70/3cc970088ecd33af54ca23ac41728cbb.jpg"
     },
 	{
       "id":77,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/89/d7/40/89d7404395669f109c342bb2ffa2b5cf.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/9f/e7/52/9fe752a30bd27483a2e149ecf0399faf.jpg"
     },
 	{
       "id":78,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/e9/eb/6b/e9eb6b8bf09b4ac1debeed9ee3b26ab8.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/17/d6/cb/17d6cb45f4d9aac2e91e284104fe5d26.jpg"
     },
 	{
       "id":79,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/15/c1/bf/15c1bfbd06e05f32de20609b812e8d86.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/cd/b3/81/cdb38164395b361a7ca83e685e470646.jpg"
     },
 	{
       "id":80,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/6f/07/b4/6f07b41ed20cf0961d52fbd430daae61.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/33/06/7a/33067a7be22d1fa66f7cb300dc4cfb4c.jpg"
     },
 	{
       "id":81,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/c4/27/1f/c4271f1cd7b8df86c5e2b9a0622a3896.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/a4/da/7f/a4da7f515458d78b603147b7a4fff7ba.jpg"
     },
 	{
       "id":82,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/fb/1d/c3/fb1dc33d64688125ce5e60eff75ef771.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/46/d8/65/46d865a9f268a07cf0fc19d03b1d10c4.jpg"
     },
 	{
       "id":83,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/90/4c/2c/904c2c708090c0bf42b010e293307d39.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/15/c8/64/15c864176538dd44ae090af595b03dcd.jpg"
     },
 	{
       "id":84,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/96/61/dc/9661dcb597bb8473bda5114526ecf481.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/56/85/57/568557c5c56a2a67f9d1a76276fec776.jpg"
     },
 	{
       "id":85,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/5b/06/40/5b0640b9da340a4d4681ea4b21c93e77.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/7b/d3/51/7bd35123d653cd403449b5a15a1905f2.jpg"
     },
 	{
       "id":86,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/3b/f2/40/3bf24056238c4ecf70bb4ab43ad21195.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ed/85/ad/ed85ad7f4363950f94d5f0c8333deaad.jpg"
     },
 	{
       "id":87,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/d2/c5/8e/d2c58ea545501cae37f9f1886993de60.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/25/c2/7f/25c27fd6d8c6f793edb1dc31640eea57.jpg"
     },
 	{
       "id":88,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/a1/45/fc/a145fcafe39269bd317d35e1bb9c7de2.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/d6/3b/64/d63b64d80b9a2d469c943137f25c7191.jpg"
     },
 	{
       "id":89,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/22/74/f8/2274f8d3a4c5d3612c3ba0f24c2ba403.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/750x/99/78/1e/99781e9241e085dcdd2c0989e4cae2bd.jpg"
     },
 	{
       "id":90,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/ad/ae/9b/adae9b3c76b418c12e39d813c86b5610.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/750x/53/4a/47/534a47d2fa8157767ba528fe99680ba5.jpg"
     },
 	{
       "id":91,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/76/da/a2/76daa210105a5e06a5ab144c7bbd5164.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/750x/76/b1/44/76b144ddf0e9812d7d593125905a96a0.jpg"
     },
 	{
       "id":92,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/1b/7b/b1/1b7bb1490d3def437177a0299e42fff5.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/750x/fe/c5/9e/fec59e9e73e1bfa51a8901cf056a2e59.jpg"
     },
 	{
       "id":93,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/32/42/b6/3242b68a7abfc9ef63e7d97bf7306371.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/750x/54/28/f0/5428f0ec036c1a764be024c167e6a6cd.jpg"
     },
 	{
       "id":94,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/c5/e2/32/c5e2321dabaaaedf5181d398059e7a19.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/46/7e/0a/467e0a155ad39d4884ca560896db9b0e.jpg"
     },
 	{
       "id":95,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/d9/d4/47/d9d44725f60a1aa4271fdc1305d2886c.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/f7/ca/0d/f7ca0daf824478438b945e67ccecb7c3.jpg"
     },
 	{
       "id":96,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/6f/a7/c7/6fa7c727a4022f2b021f46be48839124.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/ed/a7/55/eda755996233eb3ccb1c5f8be616eafa.jpg"
     },
 	{
       "id":97,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/45/68/5d/45685d95ce43a8c9315303a40e03b3d8.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/a4/d7/7b/a4d77bbfb436d6bf1e56abe2c2b3940b.jpg"
     },
 	{
       "id":98,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/27/d3/5b/27d35bb99615cfdc19d429bccb7a2cbf.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/31/cd/5b/31cd5b5d288c9762f1cda522edc841b1.jpg"
     },
 	{
       "id":99,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/30/8f/44/308f44fce91f5504852e44e953fb33af.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/e5/32/2c/e5322c81db58b9ec20ab4f68bdd199a7.jpg"
     },
 	{
       "id":100,
-      "name_category": "ML",
-      "title":"ML Wallpaper",
-      "image":"https://i.pinimg.com/564x/13/32/fd/1332fd9005b8b24b1b60c8b5c6d7bd66.jpg"
+      "name_category": "Miga",
+      "title":"Miga Wallpaper",
+      "image":"https://i.pinimg.com/564x/e3/1d/d3/e31dd303e0672ceaee2b6c9fc8e4a6a9.jpg"
     }
+	
 	
 	
   ]
